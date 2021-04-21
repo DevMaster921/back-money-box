@@ -2,8 +2,6 @@
 
 **Money Box** is a web application designed to help you track and manage your stock portfolios all in one place. Equipped with real-time trade data, news and historical stock data, managing your portfolios just got easier.
 
-This is the Ruby on Rails Backend API for **Money Box**. You can access the Frontend [here](https://github.com/PeaWarrior/MoneyBox-front).
-
 
 ## Prerequisites
 
